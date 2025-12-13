@@ -1,4 +1,4 @@
-# iSyncTab (CVPR 2026 Submission - PID 18667)
+# iSyncTab (CVPR 2026 Submission)
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue.svg" />
@@ -10,7 +10,7 @@
 </p>
 
 > **Note (anonymized partial release).**  
-> This repository contains an anonymized, **partial artifact** for the CVPR 2026 submission (PID 18667).  
+> This repository contains an anonymized, **partial artifact** for the CVPR 2026 submission.  
 > It includes the **NS-PFS-based iSyncTab variants only**.  
 > The **MBFS iSyncTab variant described in the paper is *not* included** in this code release.
 
